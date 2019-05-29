@@ -7,3 +7,5 @@
 
 ## :warning: **VOID PROJECT OPENSOURCE** :warning:
 
+This is an empty project, open source, without any real utility
+
